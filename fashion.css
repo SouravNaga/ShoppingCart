@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.top
+{
+    background-image: url("fa1.jpg");
+    height: 90vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top h1
+{
+    font-size: 4.5rem;
+    color: aqua;
+    position: absolute;
+    left: 8%;
+    top: 12%;
+    font-family: 'Akaya Telivigala', cursive;
+}
